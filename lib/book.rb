@@ -1,12 +1,48 @@
-class Book 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# class Book 
   
-  attr_accessor :title, :author, :page_count, :genre, :conditon 
-  def initialize(title)
-    @title = title
-  end   
+#   attr_accessor :title, :author, :page_count, :genre, :conditon 
+#   def initialize(title)
+#     @title = title
+#   end   
   
-  def turn_page
-    puts "Flipping the page...wow, you read fast!"
-    @conditon = "new"
-  end   
-end   
+#   def turn_page
+#     puts "Flipping the page...wow, you read fast!"
+#     @conditon = "new"
+#   end   
+# end   
